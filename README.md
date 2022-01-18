@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a project named **Uma análise da educação no Brasil(a study of data on education in brazil)**
 
-- 🌱 I’m currently learning **R, Python, Machine Learning**
+- 🌱 I’m currently learning **R, Python, Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuisFelipeTs?tab=projects&type=beta](https://github.com/LuisFelipeTs?tab=projects&type=beta)
 
