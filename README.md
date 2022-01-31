@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luís Felipe Tavares</h1>
-<h3 align="center">A passionate about data study (data analysis and data science) from Brazil</h3>
+<h3 align="center">A passionate about Python from Brazil</h3>
 
 - 🔭 I’m currently working on a project named **Uma análise da educação no Brasil(a study of data on education in brazil)**
 
