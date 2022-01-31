@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **R, Python, Power BI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LuisFelipeTs?tab=projects&type=beta](https://github.com/LuisFelipeTs?tab=projects&type=beta)
+- 👨‍💻 All of my projects are available at [https://github.com/LuisFelipeTs?tab=projects&type=beta](https://github.com/LuisFelipeTs?tab=repositories)
 
 - 💬 Ask me about **Python, SQL**
 
