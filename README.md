@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luís Felipe Tavares</h1>
 <h3 align="center">A passionate about Python & Data Science from Brazil</h3>
 
-- 🌱 I’m currently learning **R, Python, Power BI**
+- 🌱 I’m currently learning **R, Python, Machine Learning(AWS)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuisFelipeTs?tab=projects&type=beta](https://github.com/LuisFelipeTs?tab=repositories)
 
