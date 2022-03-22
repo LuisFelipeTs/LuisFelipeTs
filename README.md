@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luís Felipe Tavares</h1>
-<h3 align="center">A passionate about Python & Data from Brazil</h3>
+<h3 align="center">A passionate about Python, SQL & Data from Brazil</h3>
 
 - 🌱 I’m currently learning **Oracle(PL/SQL), Power BI, Machine Learning(AWS)**
 
