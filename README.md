@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lfcc21@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/luis-felipe-tavares-1a8906184/](https://www.linkedin.com/in/luis-felipe-tavares-1a8906184/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/luis-felipe-tavares-1a8906184/](https://www.linkedin.com/in/L-felipe-tavares/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
